@@ -1,2 +1,2 @@
 # odin-recipes
-Simple website containing various recipes
+This project involves creating a simple website containing recipes using html. Skills learned and used for this site include: creating repositories and html files, correctly formatting an html file, and creating headers, paragraphs, unordered lists, ordered lists, absolute and relative links, and images.
