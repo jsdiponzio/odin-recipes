@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(255, 209, 223);
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h1,
+a {
+    color: rgb(207, 92, 127);
+}
+
+h1,
+h3,
+p {
+    text-align: center;
+}
+
+h3 {
+    color: rgb(122, 28, 56);
+}
+
+p {
+    color: rgb(56, 112, 48);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+}
+
+div {
+    text-align: center;
+}
+
+div ul, 
+div ol {
+    background-color: rgb(72, 102, 68);
+    color:rgb(176, 209, 172);
+    display: inline-block;
+    text-align: left;
+}
+
+div ol {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+div ul {
+    list-style: circle;
+}
+
+.links {
+    text-align: center;
+    list-style: none;
+    padding-left: 0;
+    list-style-position: inside;
+    color: rgb(207, 92, 127);
+    background-color: transparent;
+}
+
+.uses {
+    background-color: transparent;
+    color: rgb(56, 112, 48)
+}
+
+
